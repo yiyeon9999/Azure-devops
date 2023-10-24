@@ -3,8 +3,7 @@ setup:
 	#source ~/.venv/bin/activate
 	
 install:
-	pip install --upgrade pip &&\
-		pip install -r requirements.txt
+	pip install -r requirements.txt
 
 test:
 	pytest --disable-warnings test_prediction.py
@@ -12,6 +11,6 @@ test:
 
 lint:
 	#uncomment to explore linting Dockerfiles
-	pylint --disable=R,C,W1203,W0702 application.py
+	pylint --disable=R,C,W1203,W0702 app.py
 
 all: install lint test
