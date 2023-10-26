@@ -25,5 +25,5 @@ curl -d '{
    }
 }'\
      -H "Content-Type: application/json" \
-     -X POST https://devops-hiepnd.azurewebsites.net:$PORT/predict 
-     # TODO: Replace the <yourappname> with your application name 
+     -X POST https://flaskappyendt.azurewebsites.net:$PORT/predict 
+     # TODO: Replace the <flaskappyendt> with your application name 
