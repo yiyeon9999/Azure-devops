@@ -1,4 +1,5 @@
 import pytest
+from flask import request, jsonify
 from app import app
 
 def test_predict():

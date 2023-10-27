@@ -26,4 +26,3 @@ curl -d '{
 }'\
      -H "Content-Type: application/json" \
      -X POST https://flaskappyendt.azurewebsites.net:$PORT/predict 
-     # TODO: Replace the <flaskappyendt> with your application name 
