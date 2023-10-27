@@ -13,7 +13,7 @@ install:
 	#pip3 install pylint
 	
 test:
-	python3 -m pytest -vv test_prediction.py
+	python3 -m pytest -vv test_hello.py
 	#python -m pytest -vv --cov=myrepolib tests/*.py
 	#python -m pytest --nbval notebook.ipynb
 
