@@ -94,4 +94,4 @@ So that each environment we have a set of resources and its own pipeline. Develo
 
 ## Demo
 
-Youtube link [Video introduction project](https://www.youtube.com/watch?v=rL3G-B62JzQ)
+Youtube link [Video introduction project](https://youtu.be/I1pznSQiWFc)
