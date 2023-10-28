@@ -21,6 +21,7 @@ Launch Azure Cloud Shell environment and create ssh key using command: ssh-keyge
 Access to your ssh key using command: cat /home/odl_user/.ssh/id_rsa.pub
 Add created ssh key to your GitHub: Go to Settings => SSH and GPG keys => New SSH Key
 Clone your GitHub Repo from Azure CLI using command: git@github.com:yiyeon9999/Azure-devops.git
+(./Images/CloneCode.png)
 Change directory to your repo after cloned using command: cd Azure-devops
 Create a Python virtual environment using command: python -m venv venv
 Access to your virtual environment using command: source venv/bin/activate
