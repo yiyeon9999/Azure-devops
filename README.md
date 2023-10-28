@@ -2,9 +2,9 @@
 This project demonstrate how to manage and devlop a python project using CI/CD with Azure Devops
 
 ## Project Plan
-* Trello plan: https://trello.com/b/4E32hnB3/management-task
+* Trello plan: https://trello.com/invite/b/4E32hnB3/ATTIbf4f02bfb832b9275d9af089f9bd2bf33E959E82/management-task
 
-* Project Management Template: https://docs.google.com/spreadsheets/d/155AS77AioLWK11blCoHAERUc8SiYDMe5f9fqd633GWU/edit?usp=sharing
+* Project Management Template: https://docs.google.com/spreadsheets/d/1B0O8UxF7AWTWCsKoeisx4RYYAEXKs1XD_pudlr3440U/edit?usp=sharing
 
 ## Instructions
 
