@@ -69,6 +69,7 @@ Configure the your user to run Docker using command: sudo groupadd docker sudo u
 Create Agent Service: Go to Project settings => Agent pools => New Agent ReConnect to your VM using command: ssh myagent@(Your VM public IP) Download your agent pool to VM by command: curl -O https://vstsagentpackage.azureedge.net/agent/3.220.5/vsts-agent-linux-x64-3.220.5.tar.gz pwd ls Create a new folder and cd to it: mkdir myagent && cd myagent Extract agent: tar zxvf ~/vsts-agent-linux-x64-3.220.5.tar.gz Run config agent by command: ./config.sh Provide your organization devops link Provide your PAT Provide your AgentPool Name Provide your agent name created in VM Start the azure pipeline agent service by command: sudo ./svc.sh install sudo ./svc.sh start
 
 Demo my work in project link: https://youtu.be/Eu4rsemo4C4
+That all 
 
 
 
