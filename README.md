@@ -91,6 +91,8 @@ Run pipeline successfully
 ![Architecture Diagram](./Images/RunPipelineSuccess.png )
 
 So that each environment we have a set of resources and its own pipeline. Developer just merge the code to target branch, pipieline will auto run
+ * Updated Load test an application using Locust
+ ![Architecture Diagram](./Images/locust-reponsetimes.png )
 
 ## Demo
 
