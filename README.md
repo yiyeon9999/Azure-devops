@@ -94,6 +94,8 @@ So that each environment we have a set of resources and its own pipeline. Develo
  * Updated Load test an application using Locust
  ![Architecture Diagram](./Images/locust-reponsetimes.png )
 
+ *Locust report
+ ![Architecture Diagram](./Images/locust-report.png)
 ## Demo
 
 Youtube link [Video introduction project](https://youtu.be/I1pznSQiWFc)
